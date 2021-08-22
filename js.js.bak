@@ -1,0 +1,8 @@
+const free = document.getElementId("free");
+const express = document.getElementId("express");
+const shippingcharge = document.getElementById("shipping");
+
+
+free.addEventListener("click",functions(){
+	shippingcharge.innerText = "5";
+});

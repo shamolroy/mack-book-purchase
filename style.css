@@ -1,0 +1,20 @@
+body{
+	padding:0;
+	margin:0;
+}
+*{
+	padding:0;
+	margin:0;
+}
+.main-area{
+	width:600px;
+	margin:auto;
+	padding:120px 0;
+}
+.shipping-charge a {
+	display: inline-block;
+	margin: 0 30px 0px 0;
+	background: #000;
+	color: #FFF;
+	padding: 15px;
+}

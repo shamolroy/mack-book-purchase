@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html class="no-js" lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <title>Alcaldia</title>
+        <meta name="description" content="" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <link href="assets/images/favicon.png" rel="shortcut icon" type="image/x-icon" />
+        <!--style css-->
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body id="page-top">
+		<div class="main-area">
+			<div class="shipping-charge">
+				<a href="#" id="free">Free shipping 5$</a>
+				<a href="#" id="express">Express Shipping 20$</a>
+			</div><br/>
+			<div class="product-price-area">
+				<p id="product">Product Price: 300$</p>
+			</div></br>
+			<div class="shipping-price">
+				<p id="shipping">Shipping Price: 5$</p>
+			</div></br>
+			<div class="total-price-area">
+				<p id="total">Totale Price: 300$</p>
+			</div>
+		</div>
+		<script src="js.js"></script>
+    </body>
+</html>
